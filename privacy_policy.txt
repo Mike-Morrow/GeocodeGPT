@@ -21,7 +21,7 @@ We do not warrant the completeness, reliability, or accuracy of the information 
 
 5. Limitation of Liability
 
-Under no circumstances shall [Your App's Company Name], its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages resulting from your use of GeocodeGPT.
+Under no circumstances shall the group behind GeocodeGPT, its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages resulting from your use of GeocodeGPT.
 
 6. Changes to This Privacy Policy
 
