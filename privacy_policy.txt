@@ -13,7 +13,7 @@ The information we collect is processed and stored securely. We take reasonable 
 
 3. Use at Your Own Risk
 
-Please be aware that [Your Custom GPT App Name] is based on GPT technology, which generates responses based on a wide range of internet data. The responses are automated and not curated for individual accuracy, appropriateness, or safety. By using this app, you acknowledge and agree that your use of any information provided by the app is solely at your own risk.
+Please be aware that this utility is based on GPT technology, which generates responses based on a wide range of internet data. The responses are automated and not curated for individual accuracy, appropriateness, or safety. By using this app, you acknowledge and agree that your use of any information provided by the app is solely at your own risk.
 
 4. No Warranty
 
